@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <title>Norya Logo</title>
+  <rect width="500" height="500" fill="#000000"/>
+  <circle cx="250" cy="120" r="40" fill="#ffffff"/>
+  <circle cx="250" cy="380" r="40" fill="#ffffff"/>
+  <circle cx="120" cy="250" r="40" fill="#ffffff"/>
+  <circle cx="380" cy="250" r="40" fill="#ffffff"/>
+  <circle cx="250" cy="250" r="40" fill="#ffffff"/>
+</svg>
